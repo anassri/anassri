@@ -20,9 +20,9 @@
 ### **Technologies Learned:**
 * JavaScript
 * React
+* Node.js
 * Python
 * Flask
-* Node.js
 * SQL/PostgreSQL
 * HTML/CSS
 
