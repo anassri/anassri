@@ -12,9 +12,9 @@
 
 ### **Reach Out:**
 
-[![linkedin logo](./images/in.png "in Logo")
+[![linkedin logo](./images/in.png "LinkedIn Profile")
 ](https://www.linkedin.com/in/anassri/)
-[![email logo](./images/email.png "email Logo")
+[![email logo](./images/email.png "Email me")
 ](mailto:someone@example.com)
 
 ### **Technologies Learned:**
