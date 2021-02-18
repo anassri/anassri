@@ -20,12 +20,12 @@
 ### **Technologies Learned:**
 * JavaScript
 * React
-* Node.js
+* Node.js/Express.js
 * Python
 * Flask
 * SQL/PostgreSQL
-* HTML/CSS
+* HTML/CSS/SCSS
 
 ### **On deck:**
-* NoSQL, GraphQL, MongoDB
+* GraphQL, MongoDB
 * React Native
