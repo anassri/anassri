@@ -15,17 +15,4 @@
 [![linkedin logo](./images/in.png "LinkedIn Profile")
 ](https://www.linkedin.com/in/anassri/)
 [![email logo](./images/email.png "Email me")
-](mailto:someone@example.com)
-
-### **Technologies Learned:**
-* JavaScript
-* React
-* Node.js/Express.js
-* Python
-* Flask
-* SQL/PostgreSQL
-* HTML/CSS/SCSS
-
-### **On deck:**
-* GraphQL, MongoDB
-* React Native
+](mailto:ar.nassri@gmail.com)
